@@ -1,0 +1,13 @@
+table {
+  width: 100%;
+}
+mat-card {
+  margin: 16px;
+}
+.loading-spinner {
+  background: rgba(0, 0, 0, 0.03);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
